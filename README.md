@@ -1,2 +1,2 @@
-# Mini-Project
-AEC projects using Python, Grasshopper, pyRevit, Raven, Claude
+# Mini-Project-1
+AEC mini projects on pyRevit using Claude
